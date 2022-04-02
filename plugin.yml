@@ -1,0 +1,9 @@
+name: Pointlessbutton
+version: v1.0-mc1.18.1
+author: pufffi
+main: com.felix.pointlessbutton.main.Main
+
+commands:
+   pointless:
+    aliases: [pointlessbutton]
+    
